@@ -45,7 +45,7 @@ export JAVA_HOME=/Android/Sdk export ANDROID_HOME=/Android/Sdk export PATH=$PATH
 #### studio.sh
 comando para abrir o Android Studio
 
-## :iniciar: Iniciar Projeto
+## :rocket: Iniciar Projeto
 react-native init + nome do projeto
 
 Executando app no Dispositivo via USB
