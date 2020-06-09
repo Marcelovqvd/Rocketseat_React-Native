@@ -49,7 +49,7 @@ export JAVA_HOME=/Android/Sdk export ANDROID_HOME=/Android/Sdk export PATH=$PATH
 comando para abrir o Android Studio
 
 <h2>
-  <a id="#iniciar-projeto" class="anchor" aria-hidden="true" href="#iniciar-projeto" >
+  <a id="iniciar-projeto" class="anchor" aria-hidden="true" href="#iniciar-projeto">
   :rocket: Iniciar Projeto
   </a>
 </h2>
