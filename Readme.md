@@ -120,6 +120,12 @@ ou
 
 FlatList - componente performático para listas. É melhor para listas grandes pois só mostra em tela oq está visível. A FlatList ocupa o máximo de espaço possível;
 
+#### API pública utilizada
+
+<p align="center">
+  <a src="https://www.themealdb.com/api/json/v1/1'">The Mealdb</a>
+</p>
+
 Outros
 - SafeAreaView - elementos só ocupam a área visível da aplicação;
 - Button - tem estilização própria de acordo com a plataforma;
