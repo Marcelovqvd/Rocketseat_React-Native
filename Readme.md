@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-  <a href="#o-que-é">O que é React-Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#o-que-é">O que é React-Native</a>"&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;"
   <a href="#iniciar-projeto">Iniciar Projeto</a>
 </p>
 
 <h2>
-<a class="anchor" aria-hidden="true" href="o-que-é">
+<a id="o-que-é" class="anchor" aria-hidden="true" href="#o-que-é">
 ## :rocket: O que é React-Native
 </a>
 </h2>
@@ -48,8 +48,11 @@ export JAVA_HOME=/Android/Sdk export ANDROID_HOME=/Android/Sdk export PATH=$PATH
 #### studio.sh
 comando para abrir o Android Studio
 
+<h2>
+<a id="#iniciar-projeto" class="anchor" aria-hidden="true" href="##iniciar-projeto">
 ## :rocket: Iniciar Projeto
-react-native init + nome do projeto
+</a>
+</h2>
 
 Executando app no Dispositivo via USB
 execute o comando adb devices
