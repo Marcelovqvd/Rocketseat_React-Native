@@ -10,9 +10,9 @@
 </p>
 
 <h2>
-<a id="o-que-é" class="anchor" aria-hidden="true" href="#o-que-é">
-:rocket: O que é React-Native
-</a>
+  <a id="o-que-é" class="anchor" aria-hidden="true" href="#o-que-é">
+    :rocket: O que é React-Native
+  </a>
 </h2>
 
 Versão do React para desenvolvimento mobile.
@@ -49,9 +49,9 @@ export JAVA_HOME=/Android/Sdk export ANDROID_HOME=/Android/Sdk export PATH=$PATH
 comando para abrir o Android Studio
 
 <h2>
-<a id="#iniciar-projeto" class="anchor" aria-hidden="true" href="#iniciar-projeto">
-:rocket: Iniciar Projeto
-</a>
+  <a id="#iniciar-projeto" class="anchor" aria-hidden="true" href="#iniciar-projeto" >
+  :rocket: Iniciar Projeto
+  </a>
 </h2>
 
 Executando app no Dispositivo via USB
