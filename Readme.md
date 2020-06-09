@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#o-que-é">O que é React-Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iniciar-projeto">Iniciar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iniciar-projeto">Iniciar Projeto</a>
 </p>
 
 ## :rocket: O que é React-Native
