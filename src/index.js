@@ -24,7 +24,7 @@ export default function App() {
 
   return (
     <>
-      <StatusBar barStyle="light-content" backgroundColor="#312e38" />
+      <StatusBar barStyle="light-content" backgroundColor="#7519c1" />
       <SafeAreaView style={styles.container}>
       <Text style={styles.title}>Título</Text>
       <Text style={styles.title}>Sub-título</Text>
@@ -60,7 +60,7 @@ export default function App() {
 const styles = StyleSheet.create({
     container: {
       flex: 1,
-      backgroundColor: '#312e38',
+      backgroundColor: '#7519c1',
     },
     title: {
       color: '#fff',
