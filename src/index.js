@@ -28,7 +28,7 @@ export default function App() {
       <SafeAreaView style={styles.container}>
       <Text style={styles.title}>Título</Text>
       <Text style={styles.title}>Sub-título</Text>
-      <FlatList 
+      <FlatList
         justifyContent={'center'}
         alignItems={'center'}
         style={styles.container}
@@ -38,16 +38,16 @@ export default function App() {
           <Text style={styles.categories}>{meal.strCategory}</Text>
         )}
       />
-      <TouchableOpacity 
-        activeOpacity={0.6} 
-        style={styles.button} 
+      <TouchableOpacity
+        activeOpacity={0.6}
+        style={styles.button}
         onPress={handleProject}
       >
         <Text style={styles.buttonText}>Apagar tudo</Text>
       </TouchableOpacity>
-      <TouchableOpacity 
-        activeOpacity={0.6} 
-        style={styles.button} 
+      <TouchableOpacity
+        activeOpacity={0.6}
+        style={styles.button}
         onPress={mount}
       >
         <Text style={styles.buttonText}>Montar tudo</Text>
