@@ -122,7 +122,7 @@ FlatList - componente performático para listas. É melhor para listas grandes p
 
 #### API pública utilizada
 
-  <a src="https://www.themealdb.com/api/json/v1/1'">The Mealdb - www.themealdb.com</a>
+ www.themealdb.com
 
 Outros
 - SafeAreaView - elementos só ocupam a área visível da aplicação;
