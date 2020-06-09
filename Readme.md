@@ -9,7 +9,11 @@
   <a href="#iniciar-projeto">Iniciar Projeto</a>
 </p>
 
+<h2>
+<a class="anchor" aria-hidden="true" href="o-que-é">
 ## :rocket: O que é React-Native
+</a>
+</h2>
 
 Versão do React para desenvolvimento mobile.
 
